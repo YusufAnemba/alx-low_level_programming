@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
+/**
  * main-  program prints a number, followed by a new line
  *@argc: count number of arguments
  *
